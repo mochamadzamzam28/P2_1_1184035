@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P2_1_1184035
 {
-    class Product_1184110
+    class Product_1184035
     {
         private string myType;
 
